@@ -1,0 +1,3 @@
+[submodule "buoy-fork"]
+	path = buoy-fork
+	url = https://github.com/youefkh05/open-source-fish-farming-prototypes-IoT-Report.git
