@@ -1,4 +1,4 @@
-Here’s the **updated README** for your repository — rewritten to reflect your **current LoRaWAN Smart Campus project** instead of the earlier Precision Aquaculture one:
+
 
 ---
 
